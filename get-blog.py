@@ -48,6 +48,6 @@ tags: {post_tags}
         post_tags=post_tags, 
         post_content=post_content)
     
-    print(post_file, file=open(url.split('/')[2], 'w'))
+    print(post_file, file=open('{}-{}.md'.format(post_date,url.split('/')[2]), 'w'))
     
     
