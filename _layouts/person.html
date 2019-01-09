@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home">  
+  {%- if page.name -%}
+    <h1 class="page-heading">{{ page.name }}</h1>
+	
+	{% if page.job_title %}<div><em>{{ page.job_title }}</em></div>{% endif %}
+  {%- endif -%}
+  
+  
+  
+  {%- if page.picture_name -%}
+  <div>
+    <img height=300 src='{{ '/assets/images/people_photos/' | append: page.picture_name | relative_url }}'/>
+  </div>
+  {%- endif -%}
+  
+  {%- if page.majors -%}
+    <div>
+		<strong>Major(s): </strong>
+		<ul>
+		{% for major in page.majors %}
+			<li>{{ major }}</li>
+		</ul>
+		{% endfor %}
+	</div>
+  {%- endif -%}
+  
+  {%- if page.graduation_date -%}
+	<div><strong>Graduation date: </strong> {{ page.graduation_date }}</div>
+  {%- endif -%}
+
+  {{ content }}
+  
+
+</div>

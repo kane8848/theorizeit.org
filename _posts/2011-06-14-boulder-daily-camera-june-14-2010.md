@@ -6,8 +6,8 @@ date: 2011-06-14
 tags: 
 ---
 
-<p><img alt="Kai Larsen and HBP research assistants" src="http://128.138.178.33/sites/default/files/daily%20camera%20picture.jpg"/><br/>
-  University of Colorado professor Kai Larsen, director of the Human Behavior Project, is one of three head researchers who will use a $350,000 grant to study the integration of behavioral sciences. Behind Larsen are his assistants - from left, Dora Georgescu, Lauren Durkee and Leslie Grush - in the Koelbel Building on the CU campus Monday. (photo by Paul Aiken, article by Whitney Bryen)</p>
+<p><img alt="Kai Larsen and HBP research assistants" src="{{ '/assets/images/daily camera picture.jpg' | relative_url }}"/></p>
+<p>University of Colorado professor Kai Larsen, director of the Human Behavior Project, is one of three head researchers who will use a $350,000 grant to study the integration of behavioral sciences. Behind Larsen are his assistants - from left, Dora Georgescu, Lauren Durkee and Leslie Grush - in the Koelbel Building on the CU campus Monday. (photo by Paul Aiken, article by Whitney Bryen)</p>
 <p>The University of Colorado's Leeds School of Business received a $350,000 grant, the school's largest grant for basic research in 20 years, toward the integration of behavioral sciences.</p>
 <p>The Science of Science and Innovation Policy - or SciSIP - awarded the federal grant to Leeds associate professors Kai Larsen and Jintae Lee, and Eliot Rich, an assistant professor at the University at Albany, for their work with the interaction of research methodologies across disciplines.</p>
 <p>Like the different languages spoken from one country to another, Larsen and his team are breaking down the various languages used by academic disciplines and connecting them through a pseudo-search engine.</p>
@@ -24,5 +24,5 @@ tags:
 <p>This kind of research could improve across all areas by connecting academic disciplines like marketing, psychology, sociology, communication, science and innovation policy, nursing and education, Witte said.</p>
 <p>"In time, it could potentially increase the quality and amount of research being done through every department and could trickle down and ultimately benefit the general population," Witte said.</p>
 <p><a href="http://www.dailycamera.com/news/ci_15293391">Article on Daily Camera website</a><br/>
-<a href="http://behavior.colorado.edu/sites/default/files/DailyCamera061410.pdf">Article PDF</a></p>
+<a href="{{'/assets/files/DailyCamera061410.pdf' | relative_url }}">Article PDF</a></p>
     

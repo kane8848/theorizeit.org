@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Human Behavior Project
-#email: kai.larsen@colorado.edu
+email: kai.larsen@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
     The Human Behavior Project (HBP) aims to integrate the behavioral sciences through natural language processing algorithms. 
     The project is predicated on what we term the Reverse Progress Problem of the Behavioral Sciences, and accomplished through 
@@ -44,16 +44,40 @@ exclude:
     - scripts/
     - get-blog.py
 
+collections:
+    people:
+        output: true
+        permalink: /:collection/:name
+
 defaults:
     - scope:
             path: ""
       values:
             layout: "default"
+            
+    -   scope:
+            path: ""
+            type: posts
+        values:
+            layout: "post"
+        
     
     - scope:
             path: "assets/papers"
       values:
             paper: true
+    
+    - scope:
+            path: ""
+            type: "people"
+      values:
+            layout: "person"
+    
+    - scope:
+            path: "_people/research-assistants"
+            type: "people"
+      values:
+            job_title: "Research Assistant"
 
 host: 0.0.0.0
 

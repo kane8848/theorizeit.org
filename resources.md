@@ -38,5 +38,5 @@ The citations below are for the INN Search Engine and the currently published IN
 
 {% assign papers = site.static_files | where: "paper", true %}
 {% for paper in papers %}
-* [paper.basename]( {{ paper.path | relative_url }} )
+* [{{paper.basename}}]( {{ paper.path | relative_url }} )
 {% endfor %}

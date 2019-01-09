@@ -56,63 +56,63 @@ title: Contributors
 
 ## Current Research Assistants
 
-* <a href="/research-assistant/chelsea-yun">Chelsea Yun</a>, Integrative Physiology
-* <a href="/research-assistant/evan-blaskowski-chief-ra">Evan Blaskowski (Chief RA)</a>, Neuroscience
-* <a href="/research-assistant/holden-southard">Holden Southard</a>, Mathematics
-* <a href="/research-assistant/mallory-britz">Mallory Britz</a>, Neuroscience
+* <a href="/people/chelsea-yun">Chelsea Yun</a>, Integrative Physiology
+* <a href="/people/evan-blaskowski-chief-ra">Evan Blaskowski (Chief RA)</a>, Neuroscience
+* <a href="/people/holden-southard">Holden Southard</a>, Mathematics
+* <a href="/people/mallory-britz">Mallory Britz</a>, Neuroscience
 
 ## Former Research Assistants
 
-* [Amelia Goslin](http://theorizeit.org/research-assistant/amelia-goslin), Psychology
-* <a href="/research-assistant/hilary-clyne">Hilary Clyne </a>, Information Systems
-* <a href="/research-assistant/david-gardner">David Gardner</a>, Operations Management
-* <a href="/research-assistant/lauren-krowl">Lauren Krowl (Chief RA)</a>, Integrative Physiology
-* <a href="/research-assistant/emily-batts">Emily Batts</a>, Psychology
-* <a href="/research-assistant/james-hoysick">James Hoysick</a>, Management
-* <a href="/research-assistant/heather-witte-chief-ra">Heather Witte (Chief RA)</a>, Psychology
-* <a href="/research-assistant/thomas-powers">Thomas Powers</a>, Psychology
-* <a href="/research-assistant/maggie-mcinnes">Maggie McInnes</a>, Integrative Physiology
-* <a href="/research-assistant/megan-rich">Megan Rich</a>, Psychology and Neuroscience
-* <a href="/research-assistant/abhi-keshav">Abhi Keshav</a>, Computer Science
-* <a href="/research-assistant/james-pfaff">James Pfaff (Lead Developer)</a>, Computer Science
-* <a href="/research-assistant/brian-niemeyer">Brian Niemeyer</a>, Molecular, Cellular, and Developmental Biology
-* <a href="/research-assistant/lauren-durkee">Lauren Durkee (Senior RA)</a>, Integrative Physiology and Speech, Language, and Hearing Sciences
-* <a href="/research-assistant/tanvi-shah">Tanvi Shah</a>, Electrical and Computer Engineering (MS)
-* <a href="/research-assistant/lindsey-bailey">Lindsey Bailey</a>, Molecular, Cellular, and Developmental Biology and Finance
-* <a href="/research-assistant/emma-alterman">Emma Alterman</a>, Anthropology
-* <a href="/research-assistant/leslie-grush-chief-ra">Leslie Grush (Chief RA)</a>, Speech, Language, and Hearing Sciences
-* <a href="/research-assistant/kerry-winchester">Kerry Winchester</a>, Speech, Language, and Hearing Sciences (MA)
-* <a href="/research-assistant/jason-cashdollar">Jason Cashdollar</a>, Operations and Information Management
-* <a href="/research-assistant/delora-abedzadeh">Delora Abedzadeh</a>, Speech, Language, and Hearing Sciences and Psychology
-* <a href="/research-assistant/jocelyn-mulkey">Jocelyn Mulkey (Chief RA)</a>, Mechanical Engineering
-* <a href="/research-assistant/annie-housman">Annie Housman</a>, Integrative Physiology, Psychology, and Education
-* <a href="/research-assistant/jamie-lowe">Jamie Lowe</a>, Psychology and Neuroscience
-* <a href="/research-assistant/dora-georgescu">Dora Georgescu</a>, Psychology and French
-* <a href="/research-assistant/warren-fernandes">Warren Fernandes</a>, Computer Science (MS)
-* <a href="/research-assistant/addison-ellis">Addison Ellis</a>, Philosophy (MA)
-* <a href="/research-assistant/janey-hosen">Janey Hosen</a>, Psychology
-* <a href="/research-assistant/connor-williams">Connor Williams (Chief RA)</a>, Psychology
-* <a href="/research-assistant/ryan-fletcher">Ryan Fletcher</a>, Psychology
-* <a href="/research-assistant/kelsey-snyder">Kelsey Snyder</a>, Anthroplogy and Geography
-* <a href="/research-assistant/vicky-gershuny-chief-ra">Vicky Gershuny (Chief RA)</a>, Chemical and Biological Engineering and Applied Mathematics
-* <a href="/research-assistant/kira-quan">Kira Quan</a>, Computer Science and Speech, Language, and Hearing Sciences
-* <a href="/research-assistant/jeff-taggart">Jeff Taggart</a>, Computer Science and Finance
-* <a href="/research-assistant/nicole-heyn-brontis">Nicole Heyn-Brontis</a>, Molecular, Cellular, and Developmental Biology
-* <a href="/research-assistant/alice-simons-senior-ra">Alice Simons (Senior RA)</a>, Business and Environmental Studies
-* <a href="/research-assistant/christopher-kelleher">Christopher Kelleher</a>, English (MA)
-* <a href="/research-assistant/william-chadwick">William Chadwick</a>, Philosophy
-* <a href="/research-assistant/christopher-miller">Christopher Miller</a>, Psychology and Business
-* <a href="/research-assistant/jacob-haynes-developer">Jacob Haynes (Developer)</a>, Electrical Engineering
-* <a href="/research-assistant/matthew-serapio">Matthew Serapio</a>, Business
-* <a href="/research-assistant/lucas-schornstein-chief-ra">Lucas Schornstein (Chief RA)</a>, Economics
-* <a href="/research-assistant/alex-regalado-senior-ra">Alex Regalado (Senior RA)</a>, Psychology
-* <a href="/research-assistant/peter-graca">Peter Graca</a>, Economics and Math
-* <a href="/research-assistant/allie-morgan">Allie Morgan</a>, Anthropology
-* <a href="/research-assistant/heather-witte">Heather Witte</a>, Computer Science
-* <a href="/research-assistant/alyssa-proctor">Alyssa Proctor</a>, Business Administration
-* <a href="/research-assistant/eric-olin">Eric Olin</a>, Open Option
-* <a href="/research-assistant/tate-teague-chief-ra">Tate Teague (Chief RA)</a>, Finance
-* [Aimee Thomas](http://theorizeit.org/research-assistant/aimee-thomas), Neuroscience, Psychology
-* [Mackenzie King](http://theorizeit.org/research-assistant/mackenzie-king), Integrative Physiology, Psychology
-* [Allison Harwood](http://theorizeit.org/research-assistant/allison-harwood), Management
-* [Lynn Kim](http://theorizeit.org/research-assistant/lynn-kim), Bio-Chemistry
+* <a href="/people/amelia-goslin">Amelia Goslin</a>, Psychology
+* <a href="/people/hilary-clyne">Hilary Clyne </a>, Information Systems
+* <a href="/people/david-gardner">David Gardner</a>, Operations Management
+* <a href="/people/lauren-krowl">Lauren Krowl (Chief RA)</a>, Integrative Physiology
+* <a href="/people/emily-batts">Emily Batts</a>, Psychology
+* <a href="/people/james-hoysick">James Hoysick</a>, Management
+* <a href="/people/heather-witte-chief-ra">Heather Witte (Chief RA)</a>, Psychology
+* <a href="/people/thomas-powers">Thomas Powers</a>, Psychology
+* <a href="/people/maggie-mcinnes">Maggie McInnes</a>, Integrative Physiology
+* <a href="/people/megan-rich">Megan Rich</a>, Psychology and Neuroscience
+* <a href="/people/abhi-keshav">Abhi Keshav</a>, Computer Science
+* <a href="/people/james-pfaff">James Pfaff (Lead Developer)</a>, Computer Science
+* <a href="/people/brian-niemeyer">Brian Niemeyer</a>, Molecular, Cellular, and Developmental Biology
+* <a href="/people/lauren-durkee">Lauren Durkee (Senior RA)</a>, Integrative Physiology and Speech, Language, and Hearing Sciences
+* <a href="/people/tanvi-shah">Tanvi Shah</a>, Electrical and Computer Engineering (MS)
+* <a href="/people/lindsey-bailey">Lindsey Bailey</a>, Molecular, Cellular, and Developmental Biology and Finance
+* <a href="/people/emma-alterman">Emma Alterman</a>, Anthropology
+* <a href="/people/leslie-grush-chief-ra">Leslie Grush (Chief RA)</a>, Speech, Language, and Hearing Sciences
+* <a href="/people/kerry-winchester">Kerry Winchester</a>, Speech, Language, and Hearing Sciences (MA)
+* <a href="/people/jason-cashdollar">Jason Cashdollar</a>, Operations and Information Management
+* <a href="/people/delora-abedzadeh">Delora Abedzadeh</a>, Speech, Language, and Hearing Sciences and Psychology
+* <a href="/people/jocelyn-mulkey">Jocelyn Mulkey (Chief RA)</a>, Mechanical Engineering
+* <a href="/people/annie-housman">Annie Housman</a>, Integrative Physiology, Psychology, and Education
+* <a href="/people/jamie-lowe">Jamie Lowe</a>, Psychology and Neuroscience
+* <a href="/people/dora-georgescu">Dora Georgescu</a>, Psychology and French
+* <a href="/people/warren-fernandes">Warren Fernandes</a>, Computer Science (MS)
+* <a href="/people/addison-ellis">Addison Ellis</a>, Philosophy (MA)
+* <a href="/people/janey-hosen">Janey Hosen</a>, Psychology
+* <a href="/people/connor-williams">Connor Williams (Chief RA)</a>, Psychology
+* <a href="/people/ryan-fletcher">Ryan Fletcher</a>, Psychology
+* <a href="/people/kelsey-snyder">Kelsey Snyder</a>, Anthroplogy and Geography
+* <a href="/people/vicky-gershuny-chief-ra">Vicky Gershuny (Chief RA)</a>, Chemical and Biological Engineering and Applied Mathematics
+* <a href="/people/kira-quan">Kira Quan</a>, Computer Science and Speech, Language, and Hearing Sciences
+* <a href="/people/jeff-taggart">Jeff Taggart</a>, Computer Science and Finance
+* <a href="/people/nicole-heyn-brontis">Nicole Heyn-Brontis</a>, Molecular, Cellular, and Developmental Biology
+* <a href="/people/alice-simons-senior-ra">Alice Simons (Senior RA)</a>, Business and Environmental Studies
+* <a href="/people/christopher-kelleher">Christopher Kelleher</a>, English (MA)
+* <a href="/people/william-chadwick">William Chadwick</a>, Philosophy
+* <a href="/people/christopher-miller">Christopher Miller</a>, Psychology and Business
+* <a href="/people/jacob-haynes-developer">Jacob Haynes (Developer)</a>, Electrical Engineering
+* <a href="/people/matthew-serapio">Matthew Serapio</a>, Business
+* <a href="/people/lucas-schornstein-chief-ra">Lucas Schornstein (Chief RA)</a>, Economics
+* <a href="/people/alex-regalado-senior-ra">Alex Regalado (Senior RA)</a>, Psychology
+* <a href="/people/peter-graca">Peter Graca</a>, Economics and Math
+* <a href="/people/allie-morgan">Allie Morgan</a>, Anthropology
+* <a href="/people/heather-witte">Heather Witte</a>, Computer Science
+* <a href="/people/alyssa-proctor">Alyssa Proctor</a>, Business Administration
+* <a href="/people/eric-olin">Eric Olin</a>, Open Option
+* <a href="/people/tate-teague-chief-ra">Tate Teague (Chief RA)</a>, Finance
+* [Aimee Thomas](http://theorizeit.org/people/aimee-thomas), Neuroscience, Psychology
+* [Mackenzie King](http://theorizeit.org/people/mackenzie-king), Integrative Physiology, Psychology
+* [Allison Harwood](http://theorizeit.org/people/allison-harwood), Management
+* [Lynn Kim](http://theorizeit.org/people/lynn-kim), Bio-Chemistry
