@@ -1,6 +1,6 @@
 ---
 
-title: Behavior change interventions: The potential of ontologies for advancing science and practice
+title: "Behavior change interventions: The potential of ontologies for advancing science and practice"
 posted_by: Tate5533
 date: 2016-12-07
 tags: Research Article

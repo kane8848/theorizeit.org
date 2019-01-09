@@ -1,6 +1,6 @@
 ---
 
-title: Boulder Daily Camera: June 14, 2010
+title: "Boulder Daily Camera: June 14, 2010"
 posted_by: pfaffj
 date: 2011-06-14
 tags: 

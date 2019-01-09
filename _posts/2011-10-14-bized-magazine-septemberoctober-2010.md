@@ -1,6 +1,6 @@
 ---
 
-title: BizEd Magazine: September/October 2010
+title: "BizEd Magazine: September/October 2010"
 posted_by: pfaffj
 date: 2011-10-14
 tags: 
