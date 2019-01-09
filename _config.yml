@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Human Behavior Project
+#email: kai.larsen@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    The Human Behavior Project (HBP) aims to integrate the behavioral sciences through natural language processing algorithms. 
+    The project is predicated on what we term the Reverse Progress Problem of the Behavioral Sciences, and accomplished through 
+    the production of the Internomological Network Search Engine.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username: humanbehaviorproject
+twitter_username: HBP_CUBoulder
 
 # Build settings
 markdown: kramdown
@@ -33,12 +33,36 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
- exclude:
-   - Gemfile
-   - Gemfile.lock
-   - node_modules
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
-   - scripts/
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - scripts/
+    - get-blog.py
+
+defaults:
+    - scope:
+            path: ""
+      values:
+            layout: "default"
+    
+    - scope:
+            path: "assets/papers"
+      values:
+            paper: true
+
+host: 0.0.0.0
+
+google_analytics: UA-15172164-4
+
+header_pages:
+    - index.md
+    - contributors.md
+    - funders.md
+    - news.md
+    - available_positions.md
+    - resources.md
