@@ -1,0 +1,29 @@
+---
+---
+
+//$background-color: #292929;
+
+//$brand-color: #292929;
+
+@import "{{ site.theme }}";
+
+.site-header, .site-footer {
+	background-color: #292929;
+	
+	.site-title, .footer-heading {
+		color: #fffcf6;
+	}
+	
+	.site-nav {
+		float: left;
+	}
+	
+	.site-nav .page-link {
+		color: #828282;
+	}
+	
+	.logo, .site-title {
+		display: inline-block; 
+	}
+}
+
