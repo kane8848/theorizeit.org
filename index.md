@@ -18,7 +18,7 @@ Project Links:
 * [Theories in IS](https://is.theorizeit.org)
 * [INNvariable Literature Collection System](http://innvariable.colorado.edu/)
 
-For links to published papers, refer to the [Resources]({{ '/Resources' | relative_url }}) page.
+For links to published papers, refer to the [Resources]({{ '/resources' | relative_url }}) page.
 
 **As a project, we are continuously interested in learning about the ways our products are being used by the public. 
 Feel free to like our [Human Behavior Project Facebook Page](https://www.facebook.com/HumanBehaviorProject) or follow us on [Twitter (@HBP_CUBoulder)](https://twitter.com/#!/HBP_CUBoulder)
