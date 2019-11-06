@@ -47,7 +47,42 @@ exclude:
 collections:
     people:
         output: true
-        permalink: /:collection/:name
+        permalink: /people/:name
+    
+    friends_of_the_project:
+        output: true
+        type: "Friend of the project"
+        permalink: /people/:name
+    
+    faculty_affiliates_and_collaborators:
+        output: true
+        type: "Faculty affiliate and collaborator"
+        permalink: /people/:name
+        layout: "person"
+        
+    phd_students:
+        output: true
+        type: "PhD Student"
+        permalink: /people/:name
+        layout: "person"
+        
+    phd_graduates:
+        output: true
+        type: "PhD Graduate"
+        permalink: /people/:name
+        layout: "person"
+        
+    research_assistants_current:
+        output: true
+        type: "Current Research Assistant"
+        permalink: /people/:name
+        layout: "person"
+        
+    research_assistants_former:
+        output: true
+        type: "Former Research Assistant"
+        permalink: /people/:name
+        layout: "person"
 
 defaults:
     - scope:
@@ -70,6 +105,18 @@ defaults:
     - scope:
             path: ""
             type: "people"
+      values:
+            layout: "person"
+            
+    - scope:
+            path: ""
+            type: research_assistants_current
+      values:
+            layout: "person"
+            
+    - scope:
+            path: ""
+            type: research_assistants_former
       values:
             layout: "person"
     
