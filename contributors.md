@@ -57,7 +57,8 @@ regenerate: true
 
 ## Current Research Assistants
 
-{% for ra in site.research_assistants_current %}
+{% assign ras = site.research_assistants_current | sort: "name" %}
+{% for ra in ras %}
 * [{{ra.name}}]({{ra.url}}){% if ra.extra_name %} ({{ra.extra_name}}){% endif %}, {{ra.majors}}
 {%- endfor %}
 
