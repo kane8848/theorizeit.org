@@ -43,6 +43,7 @@ exclude:
     - vendor/ruby/
     - scripts/
     - get-blog.py
+    - README.md
 
 collections:
     people:
