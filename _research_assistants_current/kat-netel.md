@@ -1,7 +1,7 @@
 ---
 name: Kat Netel
 title: Research Assistant
-majors: "Ecology and Evolutionary Biology and Environmental Studies"
+graduate student: "Masters of the Environment: Sustainable Food Systems"
 graduation_date: 
 picture_name: Kat_Netel.JPG
 ---
